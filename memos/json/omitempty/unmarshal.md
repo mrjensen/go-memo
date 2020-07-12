@@ -33,4 +33,4 @@ the printed struct is (format: `%+v`):
 {String1:string1 Number1:1 Object1:{Nested:nested1}}
 ```
 
-See file: [/../../edit/master/templates/json/omitempty/unmarshal.go](/../../edit/master/templates/json/omitempty/unmarshal.go)
+See file: [/../../blob/master/templates/json/omitempty/unmarshal.go](/../../blob/master/templates/json/omitempty/unmarshal.go)

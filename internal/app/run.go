@@ -59,7 +59,7 @@ func outputMarkdown(inputPath string, info os.FileInfo, err error) error {
 		"\n```\n",
 		string(output),
 		"\n```\n\n",
-		fmt.Sprintf("See file: [%[1]s](%[1]s)", inputPath),
+		fmt.Sprintf("See file: [%[1]s](%[1]s)", fmt.Sprintf("/../../edit/master/%s", inputPath)),
 	}
 	data := strings.Join(markdown, "") // fmt.Sprintf("See file: %s", introOutput, output, )
 

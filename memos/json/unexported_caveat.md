@@ -17,4 +17,4 @@ outputs:
 }
 ```
 
-See file: [templates/json/unexported_caveat.go](templates/json/unexported_caveat.go)
+See file: [/../../edit/master/templates/json/unexported_caveat.go](/../../edit/master/templates/json/unexported_caveat.go)

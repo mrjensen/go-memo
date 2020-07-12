@@ -16,4 +16,4 @@ outputs:
 }
 ```
 
-See file: [templates/json/omitempty/marshal_string.go](templates/json/omitempty/marshal_string.go)
+See file: [/../../edit/master/templates/json/omitempty/marshal_string.go](/../../edit/master/templates/json/omitempty/marshal_string.go)
